@@ -9,7 +9,7 @@ const Footer = () => {
 
 			<div className="col-md-5 footer-logo text-center  mt-5" >
 			
-				 <h1 className="logo  ">Logo</h1>
+				 <h1 className="logo pt-5 text-end ">Logo</h1>
 				<p>Bakery is a free HTML CSS Template by Templates Jungle specially crafted for Bakeries.
 				</p>
 			</div>
