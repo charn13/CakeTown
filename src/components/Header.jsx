@@ -7,8 +7,8 @@ const Header = () => {
             <div className='row'>
             <nav className="navbar navbar-expand-lg nvb fw-3">
   <div className="container-fluid">
-    <Link className="navbar-brand text-white" href="#"><img src="" alt="" className='logo' />
-     <h1 className="logo clr ">Logo</h1>
+    <Link className="navbar-brand text-white" href="#">
+     <h1 className="logo  ">Logo</h1>
     </Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
