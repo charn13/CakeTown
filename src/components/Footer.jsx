@@ -8,7 +8,7 @@ const Footer = () => {
 		<div className="row justify-content-between g-5">
 
 			<div className="col-md-5 footer-logo text-center  mt-5" >
-				<img src="http://localhost:5173/src/components/img/logoo.png" className="mt-5 logo"/>
+				<img src="https://tse1.mm.bing.net/th?id=OIP.tMuOHLrTsVfs9nxHFzUs_wHaFe&pid=Api&P=0&h=180" className="mt-5 logo"/>
 				<p>Bakery is a free HTML CSS Template by Templates Jungle specially crafted for Bakeries.
 				</p>
 			</div>
